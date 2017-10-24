@@ -1,6 +1,7 @@
 # learningReact
 Files for Wes Bos' React For Beguinners files
-[Live](https://build-gbmebpboji.now.sh)
+
+[Live]{:target="_blank"}(https://build-gbmebpboji.now.sh)
 
 # Build
 
